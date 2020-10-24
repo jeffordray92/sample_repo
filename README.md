@@ -2,6 +2,8 @@
 
 Check how to clone and pull items from remote to local
 
-Add another line here
 New line
 Fourth Line
+New Line again
+Another change
+This is another change
